@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jacoberick/to-do-list/static/css/main.fc03ce48.chunk.css",
-    "main.js": "/jacoberick/to-do-list/static/js/main.a54cd209.chunk.js",
-    "main.js.map": "/jacoberick/to-do-list/static/js/main.a54cd209.chunk.js.map",
-    "runtime-main.js": "/jacoberick/to-do-list/static/js/runtime-main.d0129c44.js",
-    "runtime-main.js.map": "/jacoberick/to-do-list/static/js/runtime-main.d0129c44.js.map",
-    "static/js/2.946c4fc7.chunk.js": "/jacoberick/to-do-list/static/js/2.946c4fc7.chunk.js",
-    "static/js/2.946c4fc7.chunk.js.map": "/jacoberick/to-do-list/static/js/2.946c4fc7.chunk.js.map",
-    "index.html": "/jacoberick/to-do-list/index.html",
-    "precache-manifest.b0293c71fb1093229393d33f8f2d98e4.js": "/jacoberick/to-do-list/precache-manifest.b0293c71fb1093229393d33f8f2d98e4.js",
-    "service-worker.js": "/jacoberick/to-do-list/service-worker.js",
-    "static/css/main.fc03ce48.chunk.css.map": "/jacoberick/to-do-list/static/css/main.fc03ce48.chunk.css.map",
-    "static/js/2.946c4fc7.chunk.js.LICENSE.txt": "/jacoberick/to-do-list/static/js/2.946c4fc7.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/jacoberick/to-do-list/static/media/logo.5d5d9eef.svg"
+    "main.css": "/to-do-list/static/css/main.fc03ce48.chunk.css",
+    "main.js": "/to-do-list/static/js/main.93e6ceed.chunk.js",
+    "main.js.map": "/to-do-list/static/js/main.93e6ceed.chunk.js.map",
+    "runtime-main.js": "/to-do-list/static/js/runtime-main.65d94b1a.js",
+    "runtime-main.js.map": "/to-do-list/static/js/runtime-main.65d94b1a.js.map",
+    "static/js/2.946c4fc7.chunk.js": "/to-do-list/static/js/2.946c4fc7.chunk.js",
+    "static/js/2.946c4fc7.chunk.js.map": "/to-do-list/static/js/2.946c4fc7.chunk.js.map",
+    "index.html": "/to-do-list/index.html",
+    "precache-manifest.43afc481cb49043332cfb252f80d15d1.js": "/to-do-list/precache-manifest.43afc481cb49043332cfb252f80d15d1.js",
+    "service-worker.js": "/to-do-list/service-worker.js",
+    "static/css/main.fc03ce48.chunk.css.map": "/to-do-list/static/css/main.fc03ce48.chunk.css.map",
+    "static/js/2.946c4fc7.chunk.js.LICENSE.txt": "/to-do-list/static/js/2.946c4fc7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/to-do-list/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0129c44.js",
+    "static/js/runtime-main.65d94b1a.js",
     "static/js/2.946c4fc7.chunk.js",
     "static/css/main.fc03ce48.chunk.css",
-    "static/js/main.a54cd209.chunk.js"
+    "static/js/main.93e6ceed.chunk.js"
   ]
 }
